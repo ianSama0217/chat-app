@@ -1,0 +1,40 @@
+/* form style */
+form {
+  width: 450px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* label style */
+label {
+  font-size: 1.15rem;
+  display: block;
+  font-weight: bold;
+}
+
+/* input style */
+input {
+  font-size: 1rem;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+/* button style */
+button {
+  font-size: 1.15rem;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #232323;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+}
